@@ -45,5 +45,5 @@
 | Name           | GitHub Username          |
 |----------------|--------------------------|
 | Youssef Afify       | [Youssef Afify](https://github.com/yusufafify)       |
-| Malak Ahmed     | [Amr Doma](https://github.com/MalakEltuny)     |
+| Malak Ahmed     | [Malak Ahmed](https://github.com/MalakEltuny)     |
 
