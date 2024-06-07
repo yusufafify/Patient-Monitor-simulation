@@ -41,5 +41,9 @@
 
 
 ## Team Members:
-- Malak ahmed hosny 1210378
-- Youssef Ahmed Afify 1200883
+
+| Name           | GitHub Username          |
+|----------------|--------------------------|
+| Youssef Afify       | [Youssef Afify](https://github.com/yusufafify)       |
+| Malak Ahmed     | [Amr Doma](https://github.com/MalakEltuny)     |
+
